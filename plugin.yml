@@ -1,0 +1,11 @@
+name: HolographicMobs
+main: com.gmail.filoghost.holographicmobs.HolographicMobs
+version: 1.0
+
+softdepend: [Multiverse-Core, MultiWorld, My Worlds, My_Worlds, HolographicDisplays]
+
+commands:
+   holographicmobs:
+      description: Main command for HolographicMobs.
+      usage: /<command> (Startup error)
+      aliases: [hmob, hmobs, holomob, holomobs]
